@@ -26,7 +26,7 @@ document.querySelectorAll("a").forEach((anchor) => {
 window.addEventListener("scroll", function () {
   document
     .querySelectorAll(
-      "#section1, #section2, #sub-section_1_1, #sub-section_1_2, #sub-section_2_1, #sub-section_2_2"
+      "#section1, #section2, #sub-section_1_1, #sub-section_1_2, #sub-section_2_1, #sub-section_2_2",
     )
     .forEach((section) => {
       const rect = section.getBoundingClientRect();

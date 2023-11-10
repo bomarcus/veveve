@@ -1,0 +1,12 @@
+{
+  "semi": true,
+  "trailingComma": "es5",
+  "singleQuote": true,
+  "printWidth": 80,
+  "tabWidth": 2, // Number of spaces per indentation level
+  "useTabs": false, // Indent lines with spaces, not tabs
+  "bracketSpacing": true,
+  "arrowParens": "avoid",
+  "htmlWhitespaceSensitivity": "css",
+  "endOfLine": "auto"
+}
